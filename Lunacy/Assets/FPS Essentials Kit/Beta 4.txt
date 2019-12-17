@@ -1,0 +1,6 @@
+Missing:
+ -> Map
+ -> Spas-12 insert bullet on chamber sound
+ -> Convert grenade textures to .TGA
+ -> New footsteps sounds
+ -> Check compatibility with Unity 2018.1

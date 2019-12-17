@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 1a515e2cb13c1cc4c95a3ffe3d1adaf7
+timeCreated: 1501006727
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone_Left_Finger_Index_0
+    100004: Bone_Left_Finger_Index_1
+    100006: Bone_Left_Finger_Index_2
+    100008: Bone_Left_Finger_Index_3
+    100010: Bone_Left_Finger_Middle_0
+    100012: Bone_Left_Finger_Middle_1
+    100014: Bone_Left_Finger_Middle_2
+    100016: Bone_Left_Finger_Middle_3
+    100018: Bone_Left_Finger_Pinky_0
+    100020: Bone_Left_Finger_Pinky_1
+    100022: Bone_Left_Finger_Pinky_2
+    100024: Bone_Left_Finger_Pinky_3
+    100026: Bone_Left_Finger_Ring_0
+    100028: Bone_Left_Finger_Ring_1
+    100030: Bone_Left_Finger_Ring_2
+    100032: Bone_Left_Finger_Ring_3
+    100034: Bone_Left_Finger_Thumb_0
+    100036: Bone_Left_Finger_Thumb_1
+    100038: Bone_Left_Finger_Thumb_2
+    100040: Bone_Left_Finger_Thumb_3
+    100042: Bone_Left_Forearm
+    100044: Bone_Left_Hand
+    100046: Bone_Left_UpperArm
+    100048: Bone_Right_Finger_Index_0
+    100050: Bone_Right_Finger_Index_1
+    100052: Bone_Right_Finger_Index_2
+    100054: Bone_Right_Finger_Index_3
+    100056: Bone_Right_Finger_Middle_0
+    100058: Bone_Right_Finger_Middle_1
+    100060: Bone_Right_Finger_Middle_2
+    100062: Bone_Right_Finger_Middle_3
+    100064: Bone_Right_Finger_Pinky_0
+    100066: Bone_Right_Finger_Pinky_1
+    100068: Bone_Right_Finger_Pinky_2
+    100070: Bone_Right_Finger_Pinky_3
+    100072: Bone_Right_Finger_Ring_0
+    100074: Bone_Right_Finger_Ring_1
+    100076: Bone_Right_Finger_Ring_2
+    100078: Bone_Right_Finger_Ring_3
+    100080: Bone_Right_Finger_Thumb_0
+    100082: Bone_Right_Finger_Thumb_1
+    100084: Bone_Right_Finger_Thumb_2
+    100086: Bone_Right_Finger_Thumb_3
+    100088: Bone_Right_Forearm
+    100090: Bone_Right_Hand
+    100092: Bone_Right_UpperArm
+    400000: //RootNode
+    400002: Bone_Left_Finger_Index_0
+    400004: Bone_Left_Finger_Index_1
+    400006: Bone_Left_Finger_Index_2
+    400008: Bone_Left_Finger_Index_3
+    400010: Bone_Left_Finger_Middle_0
+    400012: Bone_Left_Finger_Middle_1
+    400014: Bone_Left_Finger_Middle_2
+    400016: Bone_Left_Finger_Middle_3
+    400018: Bone_Left_Finger_Pinky_0
+    400020: Bone_Left_Finger_Pinky_1
+    400022: Bone_Left_Finger_Pinky_2
+    400024: Bone_Left_Finger_Pinky_3
+    400026: Bone_Left_Finger_Ring_0
+    400028: Bone_Left_Finger_Ring_1
+    400030: Bone_Left_Finger_Ring_2
+    400032: Bone_Left_Finger_Ring_3
+    400034: Bone_Left_Finger_Thumb_0
+    400036: Bone_Left_Finger_Thumb_1
+    400038: Bone_Left_Finger_Thumb_2
+    400040: Bone_Left_Finger_Thumb_3
+    400042: Bone_Left_Forearm
+    400044: Bone_Left_Hand
+    400046: Bone_Left_UpperArm
+    400048: Bone_Right_Finger_Index_0
+    400050: Bone_Right_Finger_Index_1
+    400052: Bone_Right_Finger_Index_2
+    400054: Bone_Right_Finger_Index_3
+    400056: Bone_Right_Finger_Middle_0
+    400058: Bone_Right_Finger_Middle_1
+    400060: Bone_Right_Finger_Middle_2
+    400062: Bone_Right_Finger_Middle_3
+    400064: Bone_Right_Finger_Pinky_0
+    400066: Bone_Right_Finger_Pinky_1
+    400068: Bone_Right_Finger_Pinky_2
+    400070: Bone_Right_Finger_Pinky_3
+    400072: Bone_Right_Finger_Ring_0
+    400074: Bone_Right_Finger_Ring_1
+    400076: Bone_Right_Finger_Ring_2
+    400078: Bone_Right_Finger_Ring_3
+    400080: Bone_Right_Finger_Thumb_0
+    400082: Bone_Right_Finger_Thumb_1
+    400084: Bone_Right_Finger_Thumb_2
+    400086: Bone_Right_Finger_Thumb_3
+    400088: Bone_Right_Forearm
+    400090: Bone_Right_Hand
+    400092: Bone_Right_UpperArm
+    7400000: Arms Draw
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
