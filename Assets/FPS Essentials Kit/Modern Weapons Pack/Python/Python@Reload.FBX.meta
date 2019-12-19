@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 72c74d8a75d96fe4a962430b02879e56
+timeCreated: 1503967061
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Gun
+    100002: Bone_Gun_Bullet0
+    100004: Bone_Gun_Bullet1
+    100006: Bone_Gun_Bullet2
+    100008: Bone_Gun_Bullet3
+    100010: Bone_Gun_Bullet4
+    100012: Bone_Gun_Bullet5
+    100014: Bone_Gun_Crane
+    100016: Bone_Gun_Cylinder
+    100018: Bone_Gun_Ejector
+    100020: Bone_Gun_Hammer
+    100022: Bone_Gun_SpeedLoader
+    100024: Bone_Gun_SpeedLoaderBullets
+    100026: Bone_Gun_Trigger
+    100028: Bone_Left_Finger_Index_0
+    100030: Bone_Left_Finger_Index_1
+    100032: Bone_Left_Finger_Index_2
+    100034: Bone_Left_Finger_Index_3
+    100036: Bone_Left_Finger_Middle_0
+    100038: Bone_Left_Finger_Middle_1
+    100040: Bone_Left_Finger_Middle_2
+    100042: Bone_Left_Finger_Middle_3
+    100044: Bone_Left_Finger_Pinky_0
+    100046: Bone_Left_Finger_Pinky_1
+    100048: Bone_Left_Finger_Pinky_2
+    100050: Bone_Left_Finger_Pinky_3
+    100052: Bone_Left_Finger_Ring_0
+    100054: Bone_Left_Finger_Ring_1
+    100056: Bone_Left_Finger_Ring_2
+    100058: Bone_Left_Finger_Ring_3
+    100060: Bone_Left_Finger_Thumb_0
+    100062: Bone_Left_Finger_Thumb_1
+    100064: Bone_Left_Finger_Thumb_2
+    100066: Bone_Left_Finger_Thumb_3
+    100068: Bone_Left_Forearm
+    100070: Bone_Left_Hand
+    100072: Bone_Left_UpperArm
+    100074: Bone_Right_Finger_Index_0
+    100076: Bone_Right_Finger_Index_1
+    100078: Bone_Right_Finger_Index_2
+    100080: Bone_Right_Finger_Index_3
+    100082: Bone_Right_Finger_Middle_0
+    100084: Bone_Right_Finger_Middle_1
+    100086: Bone_Right_Finger_Middle_2
+    100088: Bone_Right_Finger_Middle_3
+    100090: Bone_Right_Finger_Pinky_0
+    100092: Bone_Right_Finger_Pinky_1
+    100094: Bone_Right_Finger_Pinky_2
+    100096: Bone_Right_Finger_Pinky_3
+    100098: Bone_Right_Finger_Ring_0
+    100100: Bone_Right_Finger_Ring_1
+    100102: Bone_Right_Finger_Ring_2
+    100104: Bone_Right_Finger_Ring_3
+    100106: Bone_Right_Finger_Thumb_0
+    100108: Bone_Right_Finger_Thumb_1
+    100110: Bone_Right_Finger_Thumb_2
+    100112: Bone_Right_Finger_Thumb_3
+    100114: Bone_Right_Forearm
+    100116: Bone_Right_Hand
+    100118: Bone_Right_UpperArm
+    100120: //RootNode
+    400000: Bone_Gun
+    400002: Bone_Gun_Bullet0
+    400004: Bone_Gun_Bullet1
+    400006: Bone_Gun_Bullet2
+    400008: Bone_Gun_Bullet3
+    400010: Bone_Gun_Bullet4
+    400012: Bone_Gun_Bullet5
+    400014: Bone_Gun_Crane
+    400016: Bone_Gun_Cylinder
+    400018: Bone_Gun_Ejector
+    400020: Bone_Gun_Hammer
+    400022: Bone_Gun_SpeedLoader
+    400024: Bone_Gun_SpeedLoaderBullets
+    400026: Bone_Gun_Trigger
+    400028: Bone_Left_Finger_Index_0
+    400030: Bone_Left_Finger_Index_1
+    400032: Bone_Left_Finger_Index_2
+    400034: Bone_Left_Finger_Index_3
+    400036: Bone_Left_Finger_Middle_0
+    400038: Bone_Left_Finger_Middle_1
+    400040: Bone_Left_Finger_Middle_2
+    400042: Bone_Left_Finger_Middle_3
+    400044: Bone_Left_Finger_Pinky_0
+    400046: Bone_Left_Finger_Pinky_1
+    400048: Bone_Left_Finger_Pinky_2
+    400050: Bone_Left_Finger_Pinky_3
+    400052: Bone_Left_Finger_Ring_0
+    400054: Bone_Left_Finger_Ring_1
+    400056: Bone_Left_Finger_Ring_2
+    400058: Bone_Left_Finger_Ring_3
+    400060: Bone_Left_Finger_Thumb_0
+    400062: Bone_Left_Finger_Thumb_1
+    400064: Bone_Left_Finger_Thumb_2
+    400066: Bone_Left_Finger_Thumb_3
+    400068: Bone_Left_Forearm
+    400070: Bone_Left_Hand
+    400072: Bone_Left_UpperArm
+    400074: Bone_Right_Finger_Index_0
+    400076: Bone_Right_Finger_Index_1
+    400078: Bone_Right_Finger_Index_2
+    400080: Bone_Right_Finger_Index_3
+    400082: Bone_Right_Finger_Middle_0
+    400084: Bone_Right_Finger_Middle_1
+    400086: Bone_Right_Finger_Middle_2
+    400088: Bone_Right_Finger_Middle_3
+    400090: Bone_Right_Finger_Pinky_0
+    400092: Bone_Right_Finger_Pinky_1
+    400094: Bone_Right_Finger_Pinky_2
+    400096: Bone_Right_Finger_Pinky_3
+    400098: Bone_Right_Finger_Ring_0
+    400100: Bone_Right_Finger_Ring_1
+    400102: Bone_Right_Finger_Ring_2
+    400104: Bone_Right_Finger_Ring_3
+    400106: Bone_Right_Finger_Thumb_0
+    400108: Bone_Right_Finger_Thumb_1
+    400110: Bone_Right_Finger_Thumb_2
+    400112: Bone_Right_Finger_Thumb_3
+    400114: Bone_Right_Forearm
+    400116: Bone_Right_Hand
+    400118: Bone_Right_UpperArm
+    400120: //RootNode
+    7400000: S&W Stealth Hunter Reload
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

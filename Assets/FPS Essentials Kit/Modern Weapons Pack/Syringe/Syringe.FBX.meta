@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: f55587f0f8f4a1a42943eae3896ccb74
+timeCreated: 1509317867
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_Left_Finger_Index_0
+    100002: Bone_Left_Finger_Index_1
+    100004: Bone_Left_Finger_Index_2
+    100006: Bone_Left_Finger_Index_3
+    100008: Bone_Left_Finger_Middle_0
+    100010: Bone_Left_Finger_Middle_1
+    100012: Bone_Left_Finger_Middle_2
+    100014: Bone_Left_Finger_Middle_3
+    100016: Bone_Left_Finger_Pinky_0
+    100018: Bone_Left_Finger_Pinky_1
+    100020: Bone_Left_Finger_Pinky_2
+    100022: Bone_Left_Finger_Pinky_3
+    100024: Bone_Left_Finger_Ring_0
+    100026: Bone_Left_Finger_Ring_1
+    100028: Bone_Left_Finger_Ring_2
+    100030: Bone_Left_Finger_Ring_3
+    100032: Bone_Left_Finger_Thumb_0
+    100034: Bone_Left_Finger_Thumb_1
+    100036: Bone_Left_Finger_Thumb_2
+    100038: Bone_Left_Finger_Thumb_3
+    100040: Bone_Left_Forearm
+    100042: Bone_Left_Hand
+    100044: Bone_Left_UpperArm
+    100046: Bone_Right_Finger_Index_0
+    100048: Bone_Right_Finger_Index_1
+    100050: Bone_Right_Finger_Index_2
+    100052: Bone_Right_Finger_Index_3
+    100054: Bone_Right_Finger_Middle_0
+    100056: Bone_Right_Finger_Middle_1
+    100058: Bone_Right_Finger_Middle_2
+    100060: Bone_Right_Finger_Middle_3
+    100062: Bone_Right_Finger_Pinky_0
+    100064: Bone_Right_Finger_Pinky_1
+    100066: Bone_Right_Finger_Pinky_2
+    100068: Bone_Right_Finger_Pinky_3
+    100070: Bone_Right_Finger_Ring_0
+    100072: Bone_Right_Finger_Ring_1
+    100074: Bone_Right_Finger_Ring_2
+    100076: Bone_Right_Finger_Ring_3
+    100078: Bone_Right_Finger_Thumb_0
+    100080: Bone_Right_Finger_Thumb_1
+    100082: Bone_Right_Finger_Thumb_2
+    100084: Bone_Right_Finger_Thumb_3
+    100086: Bone_Right_Forearm
+    100088: Bone_Right_Hand
+    100090: Bone_Right_UpperArm
+    100092: Camera
+    100094: Camera.Target
+    100096: Controller_Left_Forearm
+    100098: Controller_Left_Hand
+    100100: Controller_Left_Shoulder
+    100102: Controller_Right_Forearm
+    100104: Controller_Right_Hand
+    100106: Controller_Right_Shoulder
+    100108: IK_Left
+    100110: IK_Right
+    100112: Mesh_Arm
+    100114: Object001
+    100116: //RootNode
+    100118: Syringe
+    100120: syringe_main
+    100122: syringe_push
+    400000: Bone_Left_Finger_Index_0
+    400002: Bone_Left_Finger_Index_1
+    400004: Bone_Left_Finger_Index_2
+    400006: Bone_Left_Finger_Index_3
+    400008: Bone_Left_Finger_Middle_0
+    400010: Bone_Left_Finger_Middle_1
+    400012: Bone_Left_Finger_Middle_2
+    400014: Bone_Left_Finger_Middle_3
+    400016: Bone_Left_Finger_Pinky_0
+    400018: Bone_Left_Finger_Pinky_1
+    400020: Bone_Left_Finger_Pinky_2
+    400022: Bone_Left_Finger_Pinky_3
+    400024: Bone_Left_Finger_Ring_0
+    400026: Bone_Left_Finger_Ring_1
+    400028: Bone_Left_Finger_Ring_2
+    400030: Bone_Left_Finger_Ring_3
+    400032: Bone_Left_Finger_Thumb_0
+    400034: Bone_Left_Finger_Thumb_1
+    400036: Bone_Left_Finger_Thumb_2
+    400038: Bone_Left_Finger_Thumb_3
+    400040: Bone_Left_Forearm
+    400042: Bone_Left_Hand
+    400044: Bone_Left_UpperArm
+    400046: Bone_Right_Finger_Index_0
+    400048: Bone_Right_Finger_Index_1
+    400050: Bone_Right_Finger_Index_2
+    400052: Bone_Right_Finger_Index_3
+    400054: Bone_Right_Finger_Middle_0
+    400056: Bone_Right_Finger_Middle_1
+    400058: Bone_Right_Finger_Middle_2
+    400060: Bone_Right_Finger_Middle_3
+    400062: Bone_Right_Finger_Pinky_0
+    400064: Bone_Right_Finger_Pinky_1
+    400066: Bone_Right_Finger_Pinky_2
+    400068: Bone_Right_Finger_Pinky_3
+    400070: Bone_Right_Finger_Ring_0
+    400072: Bone_Right_Finger_Ring_1
+    400074: Bone_Right_Finger_Ring_2
+    400076: Bone_Right_Finger_Ring_3
+    400078: Bone_Right_Finger_Thumb_0
+    400080: Bone_Right_Finger_Thumb_1
+    400082: Bone_Right_Finger_Thumb_2
+    400084: Bone_Right_Finger_Thumb_3
+    400086: Bone_Right_Forearm
+    400088: Bone_Right_Hand
+    400090: Bone_Right_UpperArm
+    400092: Camera
+    400094: Camera.Target
+    400096: Controller_Left_Forearm
+    400098: Controller_Left_Hand
+    400100: Controller_Left_Shoulder
+    400102: Controller_Right_Forearm
+    400104: Controller_Right_Hand
+    400106: Controller_Right_Shoulder
+    400108: IK_Left
+    400110: IK_Right
+    400112: Mesh_Arm
+    400114: Object001
+    400116: //RootNode
+    400118: Syringe
+    400120: syringe_main
+    400122: syringe_push
+    4300000: Mesh_Arm
+    4300002: Syringe
+    4300004: Object001
+    7400000: Injection
+    9500000: //RootNode
+    13700000: Mesh_Arm
+    13700002: Object001
+    13700004: Syringe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Injection
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_Left_UpperArm
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Index_0
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Index_0/Bone_Left_Finger_Index_1
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Index_0/Bone_Left_Finger_Index_1/Bone_Left_Finger_Index_2
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Index_0/Bone_Left_Finger_Index_1/Bone_Left_Finger_Index_2/Bone_Left_Finger_Index_3
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Middle_0
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Middle_0/Bone_Left_Finger_Middle_1
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Middle_0/Bone_Left_Finger_Middle_1/Bone_Left_Finger_Middle_2
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Middle_0/Bone_Left_Finger_Middle_1/Bone_Left_Finger_Middle_2/Bone_Left_Finger_Middle_3
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Pinky_0
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Pinky_0/Bone_Left_Finger_Pinky_1
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Pinky_0/Bone_Left_Finger_Pinky_1/Bone_Left_Finger_Pinky_2
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Pinky_0/Bone_Left_Finger_Pinky_1/Bone_Left_Finger_Pinky_2/Bone_Left_Finger_Pinky_3
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Ring_0
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Ring_0/Bone_Left_Finger_Ring_1
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Ring_0/Bone_Left_Finger_Ring_1/Bone_Left_Finger_Ring_2
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Ring_0/Bone_Left_Finger_Ring_1/Bone_Left_Finger_Ring_2/Bone_Left_Finger_Ring_3
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Thumb_0
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Thumb_0/Bone_Left_Finger_Thumb_1
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Thumb_0/Bone_Left_Finger_Thumb_1/Bone_Left_Finger_Thumb_2
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Bone_Left_Hand/Bone_Left_Finger_Thumb_0/Bone_Left_Finger_Thumb_1/Bone_Left_Finger_Thumb_2/Bone_Left_Finger_Thumb_3
+        weight: 1
+      - path: Bone_Left_UpperArm/Bone_Left_Forearm/Controller_Left_Forearm
+        weight: 1
+      - path: Bone_Right_UpperArm
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Index_0
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Index_0/Bone_Right_Finger_Index_1
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Index_0/Bone_Right_Finger_Index_1/Bone_Right_Finger_Index_2
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Index_0/Bone_Right_Finger_Index_1/Bone_Right_Finger_Index_2/Bone_Right_Finger_Index_3
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Middle_0
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Middle_0/Bone_Right_Finger_Middle_1
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Middle_0/Bone_Right_Finger_Middle_1/Bone_Right_Finger_Middle_2
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Middle_0/Bone_Right_Finger_Middle_1/Bone_Right_Finger_Middle_2/Bone_Right_Finger_Middle_3
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Pinky_0
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Pinky_0/Bone_Right_Finger_Pinky_1
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Pinky_0/Bone_Right_Finger_Pinky_1/Bone_Right_Finger_Pinky_2
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Pinky_0/Bone_Right_Finger_Pinky_1/Bone_Right_Finger_Pinky_2/Bone_Right_Finger_Pinky_3
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Ring_0
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Ring_0/Bone_Right_Finger_Ring_1
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Ring_0/Bone_Right_Finger_Ring_1/Bone_Right_Finger_Ring_2
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Ring_0/Bone_Right_Finger_Ring_1/Bone_Right_Finger_Ring_2/Bone_Right_Finger_Ring_3
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Thumb_0
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Thumb_0/Bone_Right_Finger_Thumb_1
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Thumb_0/Bone_Right_Finger_Thumb_1/Bone_Right_Finger_Thumb_2
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Bone_Right_Hand/Bone_Right_Finger_Thumb_0/Bone_Right_Finger_Thumb_1/Bone_Right_Finger_Thumb_2/Bone_Right_Finger_Thumb_3
+        weight: 1
+      - path: Bone_Right_UpperArm/Bone_Right_Forearm/Controller_Right_Forearm
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Camera.Target
+        weight: 1
+      - path: Controller_Left_Hand
+        weight: 1
+      - path: Controller_Left_Hand/IK_Left
+        weight: 1
+      - path: Controller_Left_Shoulder
+        weight: 1
+      - path: Controller_Right_Hand
+        weight: 1
+      - path: Controller_Right_Hand/IK_Right
+        weight: 1
+      - path: Controller_Right_Shoulder
+        weight: 1
+      - path: Mesh_Arm
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Syringe
+        weight: 1
+      - path: syringe_main
+        weight: 1
+      - path: syringe_push
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

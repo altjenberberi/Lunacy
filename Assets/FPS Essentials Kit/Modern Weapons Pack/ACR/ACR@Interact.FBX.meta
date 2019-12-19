@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 99920c85d37d4304e82304d7f3e96812
+timeCreated: 1511658198
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bolt
+    100002: Bolt 1
+    100004: Bone_Left_Finger_Index_0
+    100006: Bone_Left_Finger_Index_1
+    100008: Bone_Left_Finger_Index_2
+    100010: Bone_Left_Finger_Index_3
+    100012: Bone_Left_Finger_Middle_0
+    100014: Bone_Left_Finger_Middle_1
+    100016: Bone_Left_Finger_Middle_2
+    100018: Bone_Left_Finger_Middle_3
+    100020: Bone_Left_Finger_Pinky_0
+    100022: Bone_Left_Finger_Pinky_1
+    100024: Bone_Left_Finger_Pinky_2
+    100026: Bone_Left_Finger_Pinky_3
+    100028: Bone_Left_Finger_Ring_0
+    100030: Bone_Left_Finger_Ring_1
+    100032: Bone_Left_Finger_Ring_2
+    100034: Bone_Left_Finger_Ring_3
+    100036: Bone_Left_Finger_Thumb_0
+    100038: Bone_Left_Finger_Thumb_1
+    100040: Bone_Left_Finger_Thumb_2
+    100042: Bone_Left_Finger_Thumb_3
+    100044: Bone_Left_Forearm
+    100046: Bone_Left_Hand
+    100048: Bone_Left_UpperArm
+    100050: Bone_Right_Finger_Index_0
+    100052: Bone_Right_Finger_Index_1
+    100054: Bone_Right_Finger_Index_2
+    100056: Bone_Right_Finger_Index_3
+    100058: Bone_Right_Finger_Middle_0
+    100060: Bone_Right_Finger_Middle_1
+    100062: Bone_Right_Finger_Middle_2
+    100064: Bone_Right_Finger_Middle_3
+    100066: Bone_Right_Finger_Pinky_0
+    100068: Bone_Right_Finger_Pinky_1
+    100070: Bone_Right_Finger_Pinky_2
+    100072: Bone_Right_Finger_Pinky_3
+    100074: Bone_Right_Finger_Ring_0
+    100076: Bone_Right_Finger_Ring_1
+    100078: Bone_Right_Finger_Ring_2
+    100080: Bone_Right_Finger_Ring_3
+    100082: Bone_Right_Finger_Thumb_0
+    100084: Bone_Right_Finger_Thumb_1
+    100086: Bone_Right_Finger_Thumb_2
+    100088: Bone_Right_Finger_Thumb_3
+    100090: Bone_Right_Forearm
+    100092: Bone_Right_Hand
+    100094: Bone_Right_UpperArm
+    100096: Bullet
+    100098: Bullet 1
+    100100: Camera
+    100102: Camera.Target
+    100104: Controller_Left_Forearm
+    100106: Controller_Left_Hand
+    100108: Controller_Left_Shoulder
+    100110: Controller_Right_Forearm
+    100112: Controller_Right_Hand
+    100114: Controller_Right_Shoulder
+    100116: Cover
+    100118: Dummy001
+    100120: DustCover
+    100122: Handle
+    100124: Handle 1
+    100126: IK_Left
+    100128: IK_Right
+    100130: Magazine
+    100132: Magazine 1
+    100134: Magpul Masada
+    100136: //RootNode
+    100138: Mesh_Arm
+    100140: Sights
+    100142: Stock
+    100144: Stock 1
+    100146: Trigger
+    100148: Trigger 1
+    100150: Weapon
+    400000: Bolt
+    400002: Bolt 1
+    400004: Bone_Left_Finger_Index_0
+    400006: Bone_Left_Finger_Index_1
+    400008: Bone_Left_Finger_Index_2
+    400010: Bone_Left_Finger_Index_3
+    400012: Bone_Left_Finger_Middle_0
+    400014: Bone_Left_Finger_Middle_1
+    400016: Bone_Left_Finger_Middle_2
+    400018: Bone_Left_Finger_Middle_3
+    400020: Bone_Left_Finger_Pinky_0
+    400022: Bone_Left_Finger_Pinky_1
+    400024: Bone_Left_Finger_Pinky_2
+    400026: Bone_Left_Finger_Pinky_3
+    400028: Bone_Left_Finger_Ring_0
+    400030: Bone_Left_Finger_Ring_1
+    400032: Bone_Left_Finger_Ring_2
+    400034: Bone_Left_Finger_Ring_3
+    400036: Bone_Left_Finger_Thumb_0
+    400038: Bone_Left_Finger_Thumb_1
+    400040: Bone_Left_Finger_Thumb_2
+    400042: Bone_Left_Finger_Thumb_3
+    400044: Bone_Left_Forearm
+    400046: Bone_Left_Hand
+    400048: Bone_Left_UpperArm
+    400050: Bone_Right_Finger_Index_0
+    400052: Bone_Right_Finger_Index_1
+    400054: Bone_Right_Finger_Index_2
+    400056: Bone_Right_Finger_Index_3
+    400058: Bone_Right_Finger_Middle_0
+    400060: Bone_Right_Finger_Middle_1
+    400062: Bone_Right_Finger_Middle_2
+    400064: Bone_Right_Finger_Middle_3
+    400066: Bone_Right_Finger_Pinky_0
+    400068: Bone_Right_Finger_Pinky_1
+    400070: Bone_Right_Finger_Pinky_2
+    400072: Bone_Right_Finger_Pinky_3
+    400074: Bone_Right_Finger_Ring_0
+    400076: Bone_Right_Finger_Ring_1
+    400078: Bone_Right_Finger_Ring_2
+    400080: Bone_Right_Finger_Ring_3
+    400082: Bone_Right_Finger_Thumb_0
+    400084: Bone_Right_Finger_Thumb_1
+    400086: Bone_Right_Finger_Thumb_2
+    400088: Bone_Right_Finger_Thumb_3
+    400090: Bone_Right_Forearm
+    400092: Bone_Right_Hand
+    400094: Bone_Right_UpperArm
+    400096: Bullet
+    400098: Bullet 1
+    400100: Camera
+    400102: Camera.Target
+    400104: Controller_Left_Forearm
+    400106: Controller_Left_Hand
+    400108: Controller_Left_Shoulder
+    400110: Controller_Right_Forearm
+    400112: Controller_Right_Hand
+    400114: Controller_Right_Shoulder
+    400116: Cover
+    400118: Dummy001
+    400120: DustCover
+    400122: Handle
+    400124: Handle 1
+    400126: IK_Left
+    400128: IK_Right
+    400130: Magazine
+    400132: Magazine 1
+    400134: Magpul Masada
+    400136: //RootNode
+    400138: Mesh_Arm
+    400140: Sights
+    400142: Stock
+    400144: Stock 1
+    400146: Trigger
+    400148: Trigger 1
+    400150: Weapon
+    2300000: Sights
+    3300000: Sights
+    4300000: Mesh_Arm
+    4300002: Magpul Masada
+    4300004: Magazine
+    4300006: Trigger
+    4300008: Stock
+    4300010: Cover
+    4300012: Bullet
+    4300014: Bolt
+    4300016: Sights
+    4300018: Handle
+    7400000: Interact
+    9500000: //RootNode
+    13700000: Bolt 1
+    13700002: Bullet
+    13700004: Cover
+    13700006: Handle
+    13700008: Magazine
+    13700010: Magpul Masada
+    13700012: Mesh_Arm
+    13700014: Stock 1
+    13700016: Trigger 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
